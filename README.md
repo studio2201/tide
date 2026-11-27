@@ -7,14 +7,13 @@
 [![CI & EGO Bundle Verification](https://github.com/studio2201/tide/actions/workflows/ci.yml/badge.svg)](https://github.com/studio2201/tide/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/studio2201/tide)](https://github.com/studio2201/tide/releases/latest)
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/License-GPL--3.0--or--later-blue.svg)](LICENSE)
-[![Sponsor: Tuition, Not Coffee](https://img.shields.io/badge/Sponsor-Tuition%2C%20Not%20Coffee%20%F0%9F%8E%93-2ec27e)](https://ubermetroid.github.io/tuition-not-coffee)
 [![Star on GitHub](https://img.shields.io/github/stars/studio2201/tide?style=social)](https://github.com/studio2201/tide)
 
 **Tide** (`tide@studio2201.github.io`) is a fast, zero-subprocess, Wayland-native **Super-Key Application & Open-Window Launcher** for **GNOME Shell 45–50**. Press **Super** or **Super + Enter** to summon a sleek modal search bar with instant fuzzy application and open-window matching across workspaces, **Ctrl+1..Ctrl+9** direct launch shortcuts, Kelp/Reef/Coral accent borders, and a **3-tab Libadwaita Settings & About dialog**.
 
 Derived from [Pop Launcher Super-Key Standalone](https://github.com/icesx/gnome-shell-extension-pop-launcher-super-key) (`pop-launcher-super-key@icesx` by icesx, itself forked from [ManeLippert/gnome-shell-extension-pop-launcher-super-key](https://github.com/ManeLippert/gnome-shell-extension-pop-launcher-super-key) and inspired by System76 Pop Shell) — upgraded with cross-workspace **Open-Window Search & Switching**, fuzzy subsequence scoring, `Ctrl+1..9` shortcut badges, customizable Ocean Cyan / Kelp / Reef / Coral accent borders, and engineered under the same strict [`AGENTS.md`](AGENTS.md) Page Rule and EGO standards as [**Kelp**](https://github.com/studio2201/kelp), [**Reef**](https://github.com/studio2201/reef), [**Shoal**](https://github.com/studio2201/shoal), [**Coral**](https://github.com/studio2201/coral), and [**Seabed**](https://github.com/studio2201/seabed). Official project artwork is archived in [`brand/`](brand/) (`icon-512.png`, `icon-256.png`, `icon-160.png`, `favicon-64.png`).
 
-> 🎓 **Support Tide — [Tuition, Not Coffee — Help send my daughter to college](https://ubermetroid.github.io/tuition-not-coffee)** · 🌐 [**Project Website (`studio2201.github.io/tide`)**](https://studio2201.github.io/tide/) · ⭐ [**Star studio2201/tide on GitHub**](https://github.com/studio2201/tide)
+> 🌐 [**Project Website (`studio2201.github.io/tide`)**](https://studio2201.github.io/tide/) · 🧪 [**Studio 2201 Lab (`studio2201.com/lab`)**](https://studio2201.com/lab) · ⭐ [**Star studio2201/tide on GitHub**](https://github.com/studio2201/tide)
 
 ---
 
@@ -95,12 +94,10 @@ pipx run shexli dist/tide@studio2201.github.io.shell-extension.zip
 
 ---
 
-## 🎓 Sponsor / Support — Tuition, Not Coffee
+## Links
 
-If Tide, Coral, Seabed, Shoal, Reef, and Kelp improve your daily Linux workflow, please consider supporting development:
-
-- 🎓 **Sponsor / Donate**: [**Tuition, Not Coffee — Help send my daughter to college**](https://ubermetroid.github.io/tuition-not-coffee)
 - 🌐 **Project Website**: [**studio2201.github.io/tide**](https://studio2201.github.io/tide/)
+- 🧪 **Studio 2201 Lab**: [**studio2201.com/lab**](https://studio2201.com/lab)
 - ⭐ **Star on GitHub**: [**github.com/studio2201/tide**](https://github.com/studio2201/tide)
 
 ---
